@@ -1,0 +1,4 @@
+Benchmark,Mode,Cnt,Score,Units
+Counter.getValue,thrpt,3,57086263.523,ops/s
+CounterReentrantLock.getValue,thrpt,3,53507244.753,ops/s
+NonblockingCounter.getValue,thrpt,3,279898336.949,ops/s
